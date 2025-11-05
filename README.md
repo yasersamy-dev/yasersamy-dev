@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **PHP, Laravel, MySQL**
 
-- 📫 How to reach me **yasersamy-dev@gmail.com**
+- 📫 How to reach me **yasersamy.dev@gmail.com**
 
 - ⚡ Fun fact **I love building clean and scalable web apps**
 
