@@ -217,48 +217,7 @@ A real-time communication system built with Laravel and Laravel Reverb.
 **Built with:**
 `Laravel` `PHP` `MySQL` `Laravel Reverb` `JavaScript`
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasersamy-dev&show_icons=true&hide_border=true&count_private=true" alt="Yaser Samy's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasersamy-dev&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasersamy-dev&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 📈 Currently Learning
-
-```text
-Frontend
-├── JavaScript
-├── Modern JavaScript
-├── React
-└── Building Better UI/UX
-
-Backend
-├── Advanced Laravel
-├── API Architecture
-├── Queues & Workers
-├── Broadcasting
-├── Laravel Reverb
-└── Application Security
-
-DevOps
-├── Linux
-├── VPS
-├── Deployment
-├── Nginx
-└── Server Management
-```
 
 ---
 
