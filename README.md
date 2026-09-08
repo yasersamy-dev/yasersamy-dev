@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yaser Samy</h1>
 
 <h3 align="center">
-Laravel Backend Developer | Building Secure, Scalable & Modern Web Applications
+Laravel & Full-Stack Developer | Building Secure, Scalable & Modern Web Applications
 </h3>
 
 <p align="center">
@@ -12,10 +12,10 @@ Laravel Backend Developer | Building Secure, Scalable & Modern Web Applications
 
 <p align="center">
   <a href="mailto:yasersamy.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yasersamy.dev%40gmail.com-red?style=flat&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <a href="https://github.com/yasersamy-dev">
-    <img src="https://img.shields.io/badge/GitHub-Yaser%20Samy-black?style=flat&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Yaser%20Samy-black?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
 </p>
 
@@ -23,17 +23,17 @@ Laravel Backend Developer | Building Secure, Scalable & Modern Web Applications
 
 ## 👨‍💻 About Me
 
-I'm a **Laravel Backend Developer** focused on building secure, scalable, and maintainable web applications.
+I'm a **Laravel & Full-Stack Developer** focused on building secure, scalable, and maintainable web applications.
 
-I enjoy turning business requirements into reliable backend systems with clean architecture, well-structured databases, authentication, authorization, APIs, notifications, queues, and real-time features.
+My main focus is **PHP, Laravel, MySQL, RESTful APIs, and backend architecture**, while continuously improving my frontend skills to build complete web applications.
 
-I'm also continuously improving my frontend skills to become a **Full-Stack Web Developer**.
+I enjoy turning business requirements into reliable systems with clean architecture, well-designed databases, authentication, authorization, APIs, queues, notifications, and real-time features.
 
-* 🔭 Currently building **Laravel & PHP projects**
-* 🌱 Currently improving my **JavaScript & Frontend skills**
-* 💻 Main focus: **PHP, Laravel & MySQL**
+* 🔭 Building **Laravel & PHP applications**
+* 💻 Main stack: **PHP, Laravel, MySQL & JavaScript**
 * 🔐 Interested in **Web Security & Backend Architecture**
-* ⚡ I enjoy building **clean, scalable and production-ready applications**
+* ⚙️ Experienced with **RESTful APIs & database-driven applications**
+* ⚡ Focused on writing **clean, scalable and maintainable code**
 * 🚀 Open to **Freelance Projects & Development Opportunities**
 
 ---
@@ -102,24 +102,7 @@ I'm also continuously improving my frontend skills to become a **Full-Stack Web 
 
 ---
 
-## 🚀 What I Build
-
-I mainly work on backend systems such as:
-
-* 🛒 E-commerce platforms
-* 🏥 Hospital & Healthcare systems
-* 📅 Appointment & Booking systems
-* 💬 Real-time Chat Applications
-* 🔐 Authentication & Authorization systems
-* 💳 Payment & Wallet systems
-* 🔔 Notifications & Email systems
-* ⚙️ RESTful APIs
-* 📊 Admin Dashboards
-* 🔄 Queue & Background Job systems
-
----
-
-## 🧠 Backend Skills
+## 🧠 Backend Engineering
 
 ```text
 PHP
@@ -129,14 +112,14 @@ PHP
 
 Laravel
 ├── Eloquent ORM
-├── Authentication
-├── Authorization
+├── Authentication & Authorization
 ├── Middleware
-├── Policies
-├── Validation
-├── REST APIs
+├── Policies & Gates
+├── Form Request Validation
+├── RESTful APIs
+├── API Resources
 ├── Notifications
-├── Queues & Jobs
+├── Jobs & Queues
 ├── Events & Listeners
 ├── Broadcasting
 ├── Laravel Reverb
@@ -145,19 +128,36 @@ Laravel
 Database
 ├── MySQL
 ├── SQLite
-├── Migrations
+├── Database Design
 ├── Relationships
-├── Query Optimization
-└── Database Design
+├── Migrations
+└── Query Optimization
 
 Security
 ├── Authentication
 ├── Authorization
-├── Rate Limiting
 ├── Validation
 ├── CSRF Protection
+├── Rate Limiting
 └── Secure API Development
 ```
+
+---
+
+## 🚀 What I Build
+
+I focus on building real-world applications such as:
+
+* 🛒 **E-Commerce Platforms**
+* 🏥 **Hospital & Healthcare Systems**
+* 📅 **Appointment & Booking Systems**
+* 💬 **Real-Time Chat Applications**
+* 💳 **Payment & Wallet Systems**
+* 🔐 **Authentication & Authorization Systems**
+* ⚙️ **RESTful APIs**
+* 🔔 **Notification & Email Systems**
+* 📊 **Admin Dashboards**
+* 🔄 **Queue & Background Job Systems**
 
 ---
 
@@ -165,59 +165,113 @@ Security
 
 ### 🏥 Hospital Management & Booking System
 
-A Laravel-based healthcare platform designed to manage doctors, patients, appointments and schedules.
+A full-featured healthcare management platform built with Laravel for managing doctors, patients, appointments, schedules, notifications, and real-time communication.
 
-**Key Features:**
+**Key Features**
 
-* 👨‍⚕️ Doctor Dashboard
-* 📅 Appointment Booking
-* 🗓️ Doctor Scheduling
+* 👨‍⚕️ Doctor Management & Dashboard
+* 👤 Patient Management
+* 📅 Appointment Booking & Scheduling
+* 🔐 Authentication & Role-Based Authorization
 * 🔔 Notifications
-* 🔐 Authentication & Authorization
-* 📊 Admin Management
-* ⚙️ Laravel Jobs & Queues
+* 💬 Real-Time Doctor–Patient Chat
+* ⚡ Laravel Reverb & Broadcasting
+* ⚙️ Jobs & Queues
+* 📊 Admin Dashboard
 
-**Built with:**
-`Laravel` `PHP` `MySQL` `Blade` `JavaScript`
+**Built With**
+
+`Laravel` `PHP` `MySQL` `Blade` `JavaScript` `Laravel Reverb`
 
 ---
 
-### 🛒 E-Commerce Platform
+### 🛒 UrbanWear E-Commerce Platform
 
-A complete e-commerce system focused on product and category management with a scalable backend structure.
+A complete e-commerce platform built with Laravel, featuring product management, shopping cart, authentication, administration, and online payments.
 
-**Key Features:**
+**Key Features**
 
-* 🛍️ Product Management
-* 📦 Category Management
-* 🖼️ Image Upload
-* 🔐 Authentication
+* 🛍️ Product & Category Management
+* 🛒 Shopping Cart
+* 🔐 Authentication & Authorization
 * 👤 User Management
+* 🖼️ Image Upload & Storage
+* 💳 Stripe Payment Integration
 * 📊 Admin Dashboard
 * 🔎 Product Organization
 
-**Built with:**
-`Laravel` `PHP` `MySQL` `Blade` `Bootstrap`
+**Built With**
+
+`Laravel` `PHP` `MySQL` `Blade` `Bootstrap` `JavaScript` `Stripe`
 
 ---
 
 ### 💬 Real-Time Chat Application
 
-A real-time communication system built with Laravel and Laravel Reverb.
+A real-time communication system built with Laravel Reverb and WebSocket broadcasting.
 
-**Key Features:**
+**Key Features**
 
 * 💬 Real-Time Messaging
 * 🔐 Private Channels
 * ⚡ Laravel Reverb
-* 📡 Broadcasting
+* 📡 Event Broadcasting
 * 🔔 Real-Time Events
 * 👤 User Authentication
+* 🟢 Online / Offline Status
 
-**Built with:**
+**Built With**
+
 `Laravel` `PHP` `MySQL` `Laravel Reverb` `JavaScript`
 
+---
 
+### 💳 Wallet & Payment REST API
+
+A secure RESTful API designed for wallet management, transactions, peer-to-peer transfers, services, and payments.
+
+**Key Features**
+
+* 🔐 API Authentication with Laravel Sanctum
+* 💰 Wallet Management
+* 💳 Wallet Charging
+* 🔄 P2P Transfers
+* 📊 Transaction History
+* 🛍️ Service Management
+* 💵 Service Purchases
+* 🔔 Notifications
+* 📄 API Resources & Pagination
+
+**Built With**
+
+`Laravel` `PHP` `MySQL` `Laravel Sanctum` `REST API`
+
+---
+
+## 🏗️ Development Practices
+
+I focus on building applications using:
+
+* 🧩 **MVC & Service Layer Architecture**
+* 🔌 **RESTful API Design**
+* 🗄️ **Relational Database Design**
+* 🔐 **Authentication & Authorization**
+* ✅ **Request Validation**
+* 📦 **Reusable Services & Components**
+* ⚡ **Queues & Background Jobs**
+* 📡 **Events & Real-Time Broadcasting**
+* 🚀 **Performance & Query Optimization**
+* 🔒 **Secure Backend Development**
+
+---
+
+## 📚 Currently Learning
+
+* ⚡ Advanced Laravel Architecture
+* 🎨 Modern Frontend Development
+* 🟢 Vue.js
+* 🔐 Advanced Web Security
+* 🚀 Production Deployment & Server Management
 
 ---
 
@@ -225,10 +279,10 @@ A real-time communication system built with Laravel and Laravel Reverb.
 
 I'm open to:
 
-* 💼 Freelance projects
-* 🚀 Web application development
+* 💼 Freelance Projects
+* 🚀 Web Application Development
 * 🤝 Collaboration
-* 💻 Backend development opportunities
+* 💻 Backend & Full-Stack Opportunities
 
 <p align="left">
 <a href="mailto:yasersamy.dev@gmail.com">
@@ -238,24 +292,6 @@ I'm open to:
 <a href="https://github.com/yasersamy-dev">
 <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
-</p>
-
----
-
-## ⚡ Code Cycle
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="100" alt="Debugging"/>
-
-     
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="100" alt="Working"/>
-
-</p>
-
-<p align="center">
-<em>Write code → Find bugs → Fix bugs → Repeat 🚀</em>
 </p>
 
 ---
